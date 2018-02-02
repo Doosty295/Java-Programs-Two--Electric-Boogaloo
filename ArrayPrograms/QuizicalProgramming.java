@@ -17,6 +17,7 @@ public class Program {
 
   public static void main(String[] args) {
 
+<<<<<<< HEAD
     int[][] students = new int[3][3];
 
     Scanner input = new Scanner(System.in);
@@ -31,6 +32,8 @@ System.out.println("Hello! You will be asked to input");
     }
 
 
+=======
+>>>>>>> cc6bd701e4b5219816c01a7b2c710a934ac301fc
   }
 
 }
