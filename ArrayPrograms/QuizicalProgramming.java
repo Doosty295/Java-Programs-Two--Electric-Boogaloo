@@ -1,13 +1,13 @@
 /*
-Java <Program Identifier>
+Java Array Program for Quiz Scoring
 Programming With Java Period 3
-Written in Atom 21-ish x64
-<Compiler>
-Written By Dustin LeGars
+  <Editor>  | Written in Atom 1.23.3 x64
+ <Compiler> |
+<Programmer>| Dustin LeGars
 Written on <date> at <time>
 {>===----===<}
 Intent:
-  <what is to be fulfilled by the program>
+  Write a program where the user can enter three grades for three different students using arrays.
 {>===----===<}
 <GitHub Link>
 */
@@ -16,7 +16,7 @@ Intent:
 public class Program {
 
   public static void main(String[] args) {
-    
+
   }
 
 }
