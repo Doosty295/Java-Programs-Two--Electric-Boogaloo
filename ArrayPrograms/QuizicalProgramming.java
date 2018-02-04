@@ -1,9 +1,10 @@
 /*
 Java Array Program for Quiz Scoring
 Programming With Java Period 3
-  <Editor>  | Written in Atom 1.23.3 x64
- <Compiler> |
-<Programmer>| Dustin LeGars
+   <Editor>  | Written in Atom 1.23.3 x64
+  <Compiler> | Uncompiled
+ <Programmer>| Dustin LeGars
+<Internal ID>| JP.R2-001-02.04.18
 Written on <date> at <time>
 {>===----===<}
 Intent:
