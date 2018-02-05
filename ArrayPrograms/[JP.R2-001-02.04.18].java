@@ -1,6 +1,6 @@
 /*
 Title: Quiz Arrays
-  Intent:  Write Program to average three quizes for three students.
+  Intent:  Write Program to average three quizzes for three students.
   Created: [02/04/2018, 18:00]
   Updated: [02/05/2018, 12:30]
 Programmer: LeGars, Dustin
