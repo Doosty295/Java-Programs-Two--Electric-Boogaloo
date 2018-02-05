@@ -15,7 +15,7 @@ Status: [Complete]
     Err Check: [----------] NULL
 Imports: [One (1)]
   [Scanner]
-GitHub Link: [https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/ArrayPrograms/QuizicalProgramming.java]
+GitHub Link: [https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/ArrayPrograms/%5BJP.R2-001-02.04.18%5D.java]
 Additional Information:
   
   
