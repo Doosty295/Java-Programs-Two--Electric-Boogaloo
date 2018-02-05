@@ -10,6 +10,9 @@ Written on <date> at <time>
 Intent:
   Write a program where the user can enter three grades for three different students using arrays.
 {>===----===<}
+Completion: [//////////] 100%
+  Testing:  [          ] 000%
+{>===----===<}
 https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/ArrayPrograms/QuizicalProgramming.java
 */
 import java.util.Scanner;
