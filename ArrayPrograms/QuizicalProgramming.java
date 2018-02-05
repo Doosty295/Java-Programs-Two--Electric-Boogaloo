@@ -1,19 +1,26 @@
 /*
-Java Array Program for Quiz Scoring
-Programming With Java Period 3
-   <Editor>  | Written in Atom 1.23.3 x64
-  <Compiler> | Uncompiled
- <Programmer>| Dustin LeGars
-<Internal ID>| JP.R2-001-02.04.18
-Written on <date> at <time>
-{>===----===<}
-Intent:
-  Write a program where the user can enter three grades for three different students using arrays.
-{>===----===<}
-Completion: [//////////] 100%
-  Testing:  [          ] 000%
-{>===----===<}
-https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/ArrayPrograms/QuizicalProgramming.java
+Title: Quiz Arrays
+  Intent:  Write Program to average three quizes for three students.
+  Created: [02/04/2018, 18:00]
+  Updated: [02/05/2018, 12:30]
+Programmer: LeGars, Dustin
+  Editor: Atom 1.23.3 x64
+  Compiler: [None]
+Program Identifier: [JP.R2-000-02.04.18]
+Status: [Complete]
+  Progress:    [////////////////////] 0%
+    Writing:   [//////////] 100%
+    Compiling: [----------] NULL
+    Debugging: [----------] NULL
+    Err Check: [----------] NULL
+Imports: [One (1)]
+  [Scanner]
+GitHub Link: [https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/ArrayPrograms/QuizicalProgramming.java]
+Additional Information:
+  
+  
+  
+  
 */
 import java.util.Scanner;
 
