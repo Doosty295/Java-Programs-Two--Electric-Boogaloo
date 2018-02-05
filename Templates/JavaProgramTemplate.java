@@ -6,6 +6,7 @@ Title: [Program Title]
 Programmer: LeGars, Dustin
   Editor: Atom 1.2#.# x64
   Compiler: [Compiling Program]
+Program Identifier: [JP.R2-000-02.04.18]
 Status: [Incomplete/Complete/Abandoned]
   Progress:    [--------------------] 0%
     Writing:   [----------] 0%
@@ -14,6 +15,7 @@ Status: [Incomplete/Complete/Abandoned]
     Err Check: [----------] 0%
 Imports: [Number of Import Statements]
   [Import Statement Names]
+GitHub Link: [Link]
 Additional Information:
   
   
