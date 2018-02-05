@@ -1,8 +1,8 @@
 /*
 Title: [Program Title]
   Intent:  [Purpose of Program]
-  Created: [Date of Creation]
-  Updated: [Date of Most Recent Update]
+  Created: [Date of Creation, Time]
+  Updated: [Date of Most Recent Update, Time]
 Programmer: LeGars, Dustin
   Editor: Atom 1.2#.# x64
   Compiler: [Compiling Program]
