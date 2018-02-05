@@ -1,21 +1,33 @@
 /*
-Java <Program Identifier>
-Programming With Java Period 3
-Written in Atom <version> x64
-<Compiler>
-Written By Dustin LeGars
-Written on <date> at <time>
-{>===----===<}
-Intent:
-  <what is to be fulfilled by the program>
-{>===----===<}
-<GitHub Link>
+Title: [Program Title]
+  Intent:  [Purpose of Program]
+  Created: [Date of Creation]
+  Updated: [Date of Most Recent Update]
+Programmer: LeGars, Dustin
+  Editor: Atom 1.2#.# x64
+  Compiler: [Compiling Program]
+Status: [Incomplete/Complete/Abandoned]
+  Progress:    [--------------------] 0%
+    Writing:   [----------] 0%
+    Compiling: [----------] 0%
+    Debugging: [----------] 0%
+    Err Check: [----------] 0%
+Imports: [Number of Import Statements]
+  [Import Statement Names]
+Additional Information:
+  
+  
+  
+  
 */
+
 
 
 public class Program {
 
   public static void main(String[] args) {
+   
+    
     
   }
 
