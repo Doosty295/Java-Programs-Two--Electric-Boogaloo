@@ -1,13 +1,13 @@
 /*
 Title: [Program Title]
   Intent:  [Purpose of Program]
-  Created: [02/06/2018, 10:00]
-  Updated: [02/06/2018, 10:00]
+  Created: [Date of Creation, Time]
+  Updated: [Date of Most Recent Update, Time]
 Programmer: LeGars, Dustin
   Editor: Atom 1.2#.# x64
   Compiler: [Compiling Program]
-Program Identifier: [JP.R2-000-02.04.18]
-Status: [Incomplete/Complete/Deprecated]
+Program Identifier: [JP.R2-002-02.06.18]
+Status: [Incomplete/Complete/Abandoned]
   Progress:    [--------------------] 0%
     Writing:   [----------] 0%
     Compiling: [----------] 0%
