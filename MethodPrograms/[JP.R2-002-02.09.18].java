@@ -2,20 +2,20 @@
 Title: Methodical Banking
   Intent:  Do banking things with methods.
   Created: [02/09/2018, 14:40]
-  Updated: [02/06/2018, 10:00]
+  Updated: [02/14/2018, 15:40]
 Programmer: LeGars, Dustin
-  Editor: Atom 1.23.3 x64
+  Editor: Atom 1.24.0 x64
   Compiler: [Compiling Program]
 Program Identifier: [JP.R2-002-02.09.18]
-Status: [Incomplete/Complete/Deprecated]
-  Progress:    [--------------------] 0%
-    Writing:   [----------] 0%
-    Compiling: [----------] 0%
-    Debugging: [----------] 0%
-    Err Check: [----------] 0%
+Status: [Incomplete]
+  Progress:    [/////////////////---] 85%
+    Writing:   [/////////-] 90%
+    Compiling: [----------] Null%
+    Debugging: [----------] Null%
+    Err Check: [----------] Null%
 Imports: 1
   Scanner
-GitHub Link: [Link]
+GitHub Link: https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/MethodPrograms/%5BJP.R2-002-02.09.18%5D.java
 Additional Information: Banking Stuff
     -=#I_HAVE_NO_IDEA_WHAT_I_AM_DOING#=-
 
