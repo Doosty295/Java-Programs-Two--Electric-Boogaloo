@@ -1,5 +1,5 @@
 /*
-Title: [Program Title]
+Title: Methodical Arrays
   Intent:  [Purpose of Program]
   Created: [02/14/2018, 14:30]
   Updated: [Date of Most Recent Update, Time]
@@ -7,7 +7,7 @@ Programmer: LeGars, Dustin
   Editor: Atom 1.24.0 x64
   Compiler: [Compiling Program]
 Program Identifier: [JP.R2-003-02.14.18]
-Status: [Incomplete/Complete/Abandoned]
+Status: [Incomplete]
   Progress:    [--------------------] 0%
     Writing:   [----------] 0%
     Compiling: [----------] 0%
