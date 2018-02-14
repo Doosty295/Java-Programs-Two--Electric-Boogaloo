@@ -8,8 +8,8 @@ Programmer: LeGars, Dustin
   Compiler: [Compiling Program]
 Program Identifier: [JP.R2-002-02.09.18]
 Status: [Incomplete]
-  Progress:    [/////////////////---] 85%
-    Writing:   [/////////-] 90%
+  Progress:    [///////////////////-] 95%
+    Writing:   [//////////] 100%
     Compiling: [----------] Null%
     Debugging: [----------] Null%
     Err Check: [----------] Null%
