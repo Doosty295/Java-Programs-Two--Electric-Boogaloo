@@ -5,15 +5,15 @@ Title: Methodical Banking
   Updated: [02/14/2018, 15:40]
 Programmer: LeGars, Dustin
   Editor: Atom 1.24.0 x64
-  Compiler: [Compiling Program]
+  Compiler: [None]
 Program Identifier: [JP.R2-002-02.09.18]
-Status: [Incomplete]
-  Progress:    [///////////////////-] 95%
+Status: [Complete]
+  Progress:    [////////////////////] 100%
     Writing:   [//////////] 100%
     Compiling: [----------] Null%
     Debugging: [----------] Null%
     Err Check: [----------] Null%
-Imports: 1
+Imports: [One (1)]
   Scanner
 GitHub Link: https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/MethodPrograms/%5BJP.R2-002-02.09.18%5D.java
 Additional Information: Banking Stuff
