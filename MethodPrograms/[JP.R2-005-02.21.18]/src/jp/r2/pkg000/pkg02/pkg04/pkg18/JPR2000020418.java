@@ -29,7 +29,33 @@ public class JPR2000020418 {
 
   public static void main(String[] args) {
 
-    //Grid stuff
+		double posXselect = (Math.random()*1000);
+		double posYselect = (Math.random()*1000);
+		
+		int xPos = 0;
+		int yPos = 0;
+		
+		if (posXselect > 333){
+		    xPos = 1;
+		} 
+		
+		if (posXselect < 666){
+		    xPos = 2
+		}
+		
+		else xPos = 3;
+		
+		if (posYselect > 333){
+		    yPos = 1;
+		} 
+		
+		if (posYselect < 666){
+		    yPos = 2
+		}
+		
+		else yPos = 3;
+		
+		
     
 
   }
