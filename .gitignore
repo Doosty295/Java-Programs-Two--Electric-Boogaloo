@@ -20,3 +20,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/MethodPrograms/[[]JP.R2-000-02.04.18/nbproject/private/
+/MethodPrograms/[[]JP.R2-005-02.21.18]/nbproject/private/
