@@ -47,6 +47,11 @@ public class Program {
 
       int generatedNumber = RNG();
 
+      int compGuess = 0;
+      if (Math.random() > .5) {
+        compGuess = 1;
+      }
+      int result = CheckCorrect(compGuess, userResponse, Primecheck());
 
     }
   }
