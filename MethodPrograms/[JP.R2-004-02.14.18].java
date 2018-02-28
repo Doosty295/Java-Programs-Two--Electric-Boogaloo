@@ -33,64 +33,29 @@ public class Program {
   public static void main(String[] args) {
 
     Scanner input = new Scanner(System.in);
+    //Declarations
+      int computerGuess, meatbagGuess, primeStat;
+      double numGenA = Math.random();
+      double numGenB = (numGenA*10);
+      int queryNum = (int)numGenB;
+      int contin = 0;
 
-    int continue;
+    //Interaction
+      System.out.println("Hello and welcome to the Second Edition  of the PrimeGame!");
+      System.out.println("Please select one of the following opitons.\n");
+      System.out.println("To commence with the game, enter the number '1'.");
+      System.out.println("To Terminate this programs operation, enter the number '01010001'.");
+      contin = input.nextInt();
 
-    System.out.println("Hello! Please select a course of action.");
-    System.out.println("Option One: Play the game.");
-    System.out.println("Option Two: Terminate this program.");
-
-    while (continue == 1) {
-      System.out.println("Guess if the randomly generated number is Prime.");
-      System.out.println("Type '1' for 'yes/is prime' and type '2' for 'no/ not prime'");
-      int userResponse = input.nextInt();
-
-      int generatedNumber = RNG();
-
-      int compGuess = 0;
-      if (Math.random() > .5) {
-        compGuess = 1;
-      }
-      int result = CheckCorrect(compGuess, userResponse, Primecheck());
-
-    }
-  }
-
-
-  public static CheckCorrect(int cmpAns, usrAns, correctAns){
-    if (cmpAns == correctAns) {
-
-    }
-
-  }
-
-  public static RNG(){
-    double a = (Math.random() * 10);
-    double b = (Math.random() * 10);
-    double c = (Math.random() * 10);
-    double d = (Math.random() * 10);
-
-    int e = (int)double a
-    int f = (int)double b
-    int g = (int)double c
-    int h = (int)double d
-
-    double avgDub = (e + f + g + h)/4
-    int avg = (int)avgDub;
-    return avg;
-  }
-
-  public static Primecheck(int n){
-    //checks whether an int is prime or not.
-      boolean isPrime(n) {
-    //check if n is a multiple of 2
-      if (n%2==0) return false;
-    //if not, then just check the odds
-      for(int i=3;i*i<=n;i+=2) {
-          if(n%i==0)
-            return false;
+      if (contin == 1) {
+        do {
+          for (int loop; loop > 20; loop++) {
+            System.out.println("_");
           }
-        return true;
+
+          
+        } while ();
       }
+      }
+    }
   }
-}
