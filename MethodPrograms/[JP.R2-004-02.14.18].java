@@ -46,10 +46,11 @@ public class Program {
 
 
     //Interaction
-      System.out.println("Hello and welcome to the Second Edition of the PrimeGame!");
-      System.out.println("Please select one of the following opitons.\n");
-      System.out.println("To commence with the game, enter the number \'1\'.");
-      System.out.println("To Terminate this programs operation, enter the number \'01010001\'.");
+      System.out.println("Exclamation: Hello and welcome to the Second Edition of the PrimeGame!");
+      System.out.println("Statement: Written in the style of everyone's favorite murder-droid, HK-47.");
+      System.out.println("Statement: Please select one of the following opitons.\n");
+      System.out.println("Statement: To commence with the game, enter the number \'1\'.");
+      System.out.println("Statement: To Terminate this programs operation, enter the number \'01010001\'.");
       contin = input.nextInt();
 
       if (contin == 1) {
@@ -57,10 +58,10 @@ public class Program {
           for (int loop; loop > 20; loop++) {
             System.out.println("_");
           }
-          System.out.println("There is a number. This number is " + queryNum + ".");
-          System.out.println("Is the number, " + queryNum + ", a prime number?");
-          System.out.println("Note: Prime numbers are divisible by only themselves.");
-          System.out.println("If prime, type \'true\'. If non-prime, type \'false\'.");
+          System.out.println("Statement: There is a number. Statement: This number is " + queryNum + ".");
+          System.out.println("Query: Is the number, " + queryNum + ", a prime number?");
+          System.out.println("Statement: Note: Prime numbers are divisible by only themselves.");
+          System.out.println("Statement: If prime, type \'true\'. Statement: If non-prime, type \'false\'.");
           meatbagGuess = input.nextBoolean();
 
 
@@ -76,82 +77,82 @@ public class Program {
 
           //For if the meatbag is a funny guy...
           if (meatbagGuess != true & meatbagGuess != false) {
-            System.out.println("Exclamation: It appears that there is a meatbag that finds istelf humorus here.");
+            System.out.println("Mockery: It appears that there is a meatbag that finds istelf humorus here.");
             for (int rept=0; rept > -1; rept++) {
-              System.out.print("Have some SPAM instead.");
+              System.out.print("Repetition: Have some SPAM instead.");
             }
           }
 
           //Meatbag guess correctness
           if (meatbagGuess == true) {
-            System.out.println("You guessed that the number was prime.");
+            System.out.println("Statement: You guessed that the number was prime.");
             if (meatbagGuess == primeStat) {
-              System.out.println("You guessed correctly!");
+              System.out.println("Exclamation: You guessed correctly!");
               meatbagScore++;
             }
             else {
-              System.out.println("You guessed incorrectly, meatbag.");
+              System.out.println("Statement: You guessed incorrectly, meatbag.");
             }
           }
           else if (meatbagGuess == false) {
-            System.out.println("You guessed that the number was non-prime.");
+            System.out.println("Statement: You guessed that the number was non-prime.");
             if (meatbagGuess == primeStat) {
-              System.out.println("You guessed correctly!");
+              System.out.println("Exclamation: You guessed correctly!");
               meatbagScore++;
             }
             else {
-              System.out.println("You guessed incorrectly, meatbag.");
+              System.out.println("Statement: You guessed incorrectly, meatbag.");
             }
           }
 
 
           //Thinkbox guess correctness
           if (thinkboxGuess == true) {
-            System.out.println("The computer guessed that the number was prime.");
+            System.out.println("Statement: The computer guessed that the number was prime.");
             if (thinkboxGuess == primeStat) {
-              System.out.println("The computer guessed correctly!");
+              System.out.println("Exclamation: The computer guessed correctly!");
               thinkboxScore++;
             }
             else {
-              System.out.println("The computer guessed incorrectly.");
+              System.out.println("Statement: The computer guessed incorrectly.");
             }
           }
           else if (thinkboxGuess == false) {
-            System.out.println("The computer guessed that the number was non-prime.");
+            System.out.println("Statement: The computer guessed that the number was non-prime.");
             if (thinkboxGuess == primeStat) {
-              System.out.println("The computer guessed correctly!");
+              System.out.println("Exclamation: The computer guessed correctly!");
               thinkboxScore++;
             }
             else {
-              System.out.println("The computer guessed incorrectly.");
+              System.out.println("Statement: The computer guessed incorrectly.");
             }
           }
 
           //Score Outputs
-          System.out.println("Current scores are as follows.");
+          System.out.println("Statement: Current scores are as follows.");
           System.out.println("Meatbag: " + meatbagScore);
           System.out.println("Computer: " + thinkboxScore);
           if (meatbagScore > thinkboxScore) {
-            System.out.println("The meatbag is currently winning. How embarrasing.");
+            System.out.println("Statement: The meatbag is currently winning. How embarrasing.");
           }
           else if (thinkboxScore > meatbagScore) {
-            System.out.println("The computer is currently winning.");
+            System.out.println("Statement: The computer is currently winning.");
           }
           else {
-            System.out.println("The computer and the meatbag appear to be in a tie.");
+            System.out.println("Statement: The computer and the meatbag appear to be in a tie.");
           }
 
 
 
-          System.out.println("Would you like to play again?");
+          System.out.println("Query: Would you like to play again?");
           if (thinkboxScore > meatbagScore) {
-            System.out.println("I can understand if you don't want to challenge my superior intellect. Meatbag.");
+            System.out.println("Statement: I can understand if you don't want to challenge my superior intellect. Meatbag.");
           }
-          System.out.println("\'1\' to play again, any other key to terminate.");
+          System.out.println("Statement: \'1\' to play again, any other key to terminate.");
           contin = input.nextInt();
         } while (contin == 1);
 
-        System.out.println("Goodbye meatbag!");
+        System.out.println("Exclamation: Goodbye meatbag!");
       }
       }
 
