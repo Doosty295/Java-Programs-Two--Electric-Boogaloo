@@ -4,15 +4,14 @@
 
 
  */
-package netbeans.compatibility.file;
+package netbeanscompatibilityfile;
 
+import java.util.Scanner;
 
 public class NetBeansCompatibilityFile {
 
     public static void main(String[] args) {
 
-
-
+        
     }
-
 }
