@@ -86,7 +86,7 @@ public class Program {
 
           //For if the meatbag is a funny guy...
           if (meatbagGuess != true & meatbagGuess != false) {
-            System.out.println("Oh, we got a funny guy here?");
+            System.out.println("Exclamation: It appears that there is a meatbag that finds istelf humorus here.");
             for (int rept=0; rept > -1; rept++) {
               System.out.print("Have some SPAM instead.");
             }
@@ -100,7 +100,7 @@ public class Program {
               meatbagScore++;
             }
             else {
-              System.out.println("You guessed incorrectly.");
+              System.out.println("You guessed incorrectly, meatbag.");
             }
           }
           else if (meatbagGuess == false) {
@@ -110,7 +110,7 @@ public class Program {
               meatbagScore++;
             }
             else {
-              System.out.println("You guessed incorrectly.");
+              System.out.println("You guessed incorrectly, meatbag.");
             }
           }
 
@@ -137,15 +137,31 @@ public class Program {
             }
           }
 
-
+          //Score Outputs
+          System.out.println("Current scores are as follows.");
+          System.out.println("Meatbag: " + meatbagScore);
+          System.out.println("Computer: " + thinkboxScore);
+          if (meatbagScore > thinkboxScore) {
+            System.out.println("The meatbag is currently winning. How embarrasing.");
+          }
+          else if (thinkboxScore > meatbagScore) {
+            System.out.println("The computer is currently winning.");
+          }
+          else {
+            System.out.println("The computer and the meatbag appear to be in a tie.");
+          }
 
 
 
           System.out.println("Would you like to play again?");
-
+          if (thinkboxScore > meatbagScore) {
+            System.out.println("I can understand if you don't want to challenge my superior intellect. Meatbag.");
+          }
+          System.out.println("\'1\' to play again, any other key to terminate.");
+          contin = input.nextInt();
         } while (contin == 1);
 
-        System.out.println("Goodbye!");
+        System.out.println("Goodbye meatbag!");
       }
       }
     }
