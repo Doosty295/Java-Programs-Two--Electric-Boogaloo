@@ -2,7 +2,7 @@
 Title: [Prime Number Game]
   Intent:  [Test ability to use Java]
   Created: [02/14/2018, 16:25]
-  Updated: [03/01/2018, 09:35]
+  Updated: [03/01/2018, 10:15]
 Programmer: LeGars, Dustin
   Editor: Atom 1.24.0 x64
   Compiler: [None]
@@ -42,21 +42,11 @@ public class Program {
       int meatbagScore, thinkboxScore;
       boolean respBool;
 
-      //Prime Checker
-      //checks whether an int is prime or not.
-      boolean primeStat(queryNum) {
-          //check if n is a multiple of 2
-          if (queryNum%2==0) return false;
-          //if not, then just check the odds
-          for(int i=3;i*i<=queryNum;i+=2) {
-              if(queryNum%i==0)
-                  return false;
-          }
-          return true;
-      }
+      boolean primeStat = primeCheck(respBool);
+
 
     //Interaction
-      System.out.println("Hello and welcome to the Second Edition  of the PrimeGame!");
+      System.out.println("Hello and welcome to the Second Edition of the PrimeGame!");
       System.out.println("Please select one of the following opitons.\n");
       System.out.println("To commence with the game, enter the number \'1\'.");
       System.out.println("To Terminate this programs operation, enter the number \'01010001\'.");
@@ -164,4 +154,19 @@ public class Program {
         System.out.println("Goodbye meatbag!");
       }
       }
+
+      public static primeCheck(boolean respBool){
+      //Prime Checker
+      //checks whether an int is prime or not.
+      boolean primeStat(queryNum) {
+          //check if n is a multiple of 2
+          if (queryNum%2==0) return false;
+          //if not, then just check the odds
+          for(int i=3;i*i<=queryNum;i+=2) {
+              if(queryNum%i==0)
+                  return false;
+          }
+          return true;
+      }
+}
     }
