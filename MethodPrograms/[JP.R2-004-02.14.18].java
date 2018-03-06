@@ -2,14 +2,14 @@
 Title: [Prime Number Game]
   Intent:  [Test ability to use Java]
   Created: [02/14/2018, 16:25]
-  Updated: [03/01/2018, 10:15]
+  Updated: [03/06/2018, 10:00]
 Programmer: LeGars, Dustin
   Editor: Atom 1.24.0 x64
   Compiler: [None]
 Program Identifier: [JP.R2-004-02.14.18]
 Status: [Incomplete]
-  Progress:    [/-------------------] 5%
-    Writing:   [//--------] 20%
+  Progress:    [////----------------] 20%
+    Writing:   [//////----] 60%
     Compiling: [----------] 0%
     Debugging: [----------] 0%
     Err Check: [----------] 0%
