@@ -29,12 +29,24 @@ public class JPR2000020418 {
 
   public static void main(String[] args) {
 
+    char x1y1 = ' ';
+    char x1y2 = ' ';
+    char x1y3 = ' ';
+    char x2y1 = ' ';
+    char x2y2 = ' ';
+    char x2y3 = ' ';
+    char x3y1 = ' ';
+    char x3y2 = ' ';
+    char x3y3 = ' ';
 
-    
-    
-    
-		
-    
+    System.out.println("-------------");
+    System.out.println("| " + x1y1 + " | " + x2y1 + " | " + x3y1 + " |");
+    System.out.println("-------------");
+    System.out.println("| " + x1y2 + " | " + x2y2 + " | " + x3y2 + " |");
+    System.out.println("-------------");
+    System.out.println("| " + x1y3 + " | " + x2y3 + " | " + x3y3 + " |");
+    System.out.println("-------------");
+
 
   }
 
