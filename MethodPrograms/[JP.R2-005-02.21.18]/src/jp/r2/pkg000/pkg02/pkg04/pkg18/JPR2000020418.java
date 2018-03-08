@@ -24,28 +24,36 @@ Additional Information:
 */
 package jp.r2.pkg000.pkg02.pkg04.pkg18;
 
+import java.util.Scanner;
 
 public class JPR2000020418 {
 
   public static void main(String[] args) {
 
-    char x1y1 = ' ';
-    char x1y2 = ' ';
-    char x1y3 = ' ';
-    char x2y1 = ' ';
-    char x2y2 = ' ';
-    char x2y3 = ' ';
-    char x3y1 = ' ';
-    char x3y2 = ' ';
-    char x3y3 = ' ';
+    char c1r1 = ' ';
+    char c1r2 = ' ';
+    char c1r3 = ' ';
+    char c2r1 = ' ';
+    char c2r2 = ' ';
+    char c2r3 = ' ';
+    char c3r1 = ' ';
+    char c3r2 = ' ';
+    char c3r3 = ' ';
 
-    System.out.println("-------------");
-    System.out.println("| " + x1y1 + " | " + x2y1 + " | " + x3y1 + " |");
-    System.out.println("-------------");
-    System.out.println("| " + x1y2 + " | " + x2y2 + " | " + x3y2 + " |");
-    System.out.println("-------------");
-    System.out.println("| " + x1y3 + " | " + x2y3 + " | " + x3y3 + " |");
-    System.out.println("-------------");
+    Scanner input = new Scanner(System.in);
+
+    System.out.println("  --A---B---C--");
+    System.out.println("A | " + c1r1 + " | " + c2r1 + " | " + c3r1 + " |");
+    System.out.println("  -------------");
+    System.out.println("B | " + c1r2 + " | " + c2r2 + " | " + c3r2 + " |");
+    System.out.println("  -------------");
+    System.out.println("C | " + c1r3 + " | " + c2r3 + " | " + c3r3 + " |");
+    System.out.println("  -------------");
+
+
+    System.out.println("Pick a column to mark. (A, B, C)");
+
+    System.out.println("Pick a row to mark. (A, B, C)");
 
 
   }
