@@ -7,15 +7,15 @@ Programmer: LeGars, Dustin
   Editor: Atom 1.24.1 x64
   Compiler: [Compiling Program]
 Program Identifier: [JP.R2-000-02.04.18]
-Status: [Incomplete/Complete/Deprecated]
-  Progress:    [//------------------] 10%
-    Writing:   [/---------] 10%
-    Compiling: [----------] 0%
+Status: [I GIVE UP]
+  Progress:    [//////--------------] 30%
+    Writing:   [/////-----] 50%
+    Compiling: [//--------] 20%
     Debugging: [----------] 0%
     Err Check: [----------] 0%
 Imports: [Number of Import Statements]
   [Import Statement Names]
-GitHub Link: [Link]
+GitHub Link: [https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/MethodPrograms/%5BJP.R2-005-02.21.18%5D/src/jp/r2/pkg000/pkg02/pkg04/pkg18/JPR2000020418.java]
 Additional Information:
 
 
