@@ -2,17 +2,17 @@
 Title: [TicTacToe]
   Intent:  [To play Tic Tac Toe]
   Created: [02/21/2018, 09:58]
-  Updated: [034/14/2018, 09:50]
+  Updated: [034/19/2018, 10:23]
 Programmer: LeGars, Dustin
   Editor: Atom 1.24.1 x64
-  Compiler: [Compiling Program]
+  Compiler: [NetBeans IDE]
 Program Identifier: [JP.R2-000-02.04.18]
 Status: [I GIVE UP]
-  Progress:    [//////--------------] 30%
+  Progress:    {\\\\\\[--------------------] -30%
     Writing:   [/////-----] 50%
     Compiling: [//--------] 20%
-    Debugging: [----------] 0%
-    Err Check: [----------] 0%
+    Debugging: {\\\\\\\\\\[----------] -100%
+    Err Check: {\\\\\\\\\\[----------] -100%
 Imports: [Number of Import Statements]
   [Import Statement Names]
 GitHub Link: [https://github.com/Doosty295/Java-Programs-Two--Electric-Boogaloo/blob/master/MethodPrograms/%5BJP.R2-005-02.21.18%5D/src/jp/r2/pkg000/pkg02/pkg04/pkg18/JPR2000020418.java]
