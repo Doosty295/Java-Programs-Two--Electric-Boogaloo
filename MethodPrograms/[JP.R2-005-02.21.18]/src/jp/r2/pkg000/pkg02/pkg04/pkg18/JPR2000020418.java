@@ -213,7 +213,9 @@ while (play == 1) {
       else {
         c3r3 = 8;
       }
+
     }
+          System.out.println("99 Logical Bugs in the code, 99 Logical Bugs!\nTake one down and patch it around, 117 Logical Bugs in the code!"); System.end();
 }
 
 
